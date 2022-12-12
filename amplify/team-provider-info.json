@@ -1,0 +1,20 @@
+{
+  "dev": {
+    "awscloudformation": {
+      "AuthRoleName": "amplify-sportybee-dev-161512-authRole",
+      "UnauthRoleArn": "arn:aws:iam::996647081755:role/amplify-sportybee-dev-161512-unauthRole",
+      "AuthRoleArn": "arn:aws:iam::996647081755:role/amplify-sportybee-dev-161512-authRole",
+      "Region": "us-east-2",
+      "DeploymentBucketName": "amplify-sportybee-dev-161512-deployment",
+      "UnauthRoleName": "amplify-sportybee-dev-161512-unauthRole",
+      "StackName": "amplify-sportybee-dev-161512",
+      "StackId": "arn:aws:cloudformation:us-east-2:996647081755:stack/amplify-sportybee-dev-161512/11b28810-7a62-11ed-8a70-0697ae03b2d4",
+      "AmplifyAppId": "d375x7r7fmspoc"
+    },
+    "categories": {
+      "auth": {
+        "sportybee94f89a9d": {}
+      }
+    }
+  }
+}
